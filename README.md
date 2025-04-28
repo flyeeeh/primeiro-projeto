@@ -1,6 +1,6 @@
 Esse script é uma calculadora simples que calcula operações basicas como adição, subtralçao, multiplicação e divisão usando Phyton.
 
-A execução é feita no prompt, usando o comando: ./calculadora_simples.sh
+A execução é feita em um terminal, usando o comando: "./calculadora_simples.sh".
 
 Script
 
@@ -9,3 +9,5 @@ Este script Python é uma calculadora simples que realiza operações básicas c
 O script contém funções separadas para cada operação matemática, funcionando apenas com operações citadas a cima, adição, subtração, etc.. caso escrever errado, ou digitar alguma operação invalida, ele retorna para digitar novamente.
 
 O script espera que o usuário insira dois números e o tipo de operação a ser realizada, retornando o resultado após isso.
+
+E para executar o script .py, utilize o comando: "python calculadora_simples.py" em um terminal.
